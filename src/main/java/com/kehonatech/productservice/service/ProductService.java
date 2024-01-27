@@ -22,6 +22,7 @@ public class ProductService {
         productList.add(new Product("CON008", "GameMaster X", 299.99, 25));
         productList.add(new Product("FUR009", "ErgoComfort Chair", 149.99, 60));
         productList.add(new Product("CHG010", "PowerBoost 5000", 29.99, 120));
+        productList.add(new Product("TEST", "YouTube Demo", 29.99, 120));
 
         return productList;
     }
